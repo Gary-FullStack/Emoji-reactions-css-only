@@ -3,4 +3,4 @@
 
 
 
-No JS here, no interactivity.   Just showing CSS in use.
+No  logic interactivity here just a pop up and a few transitions using css.   
